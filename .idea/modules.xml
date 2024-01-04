@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Bootcoding_codlab.iml" filepath="$PROJECT_DIR$/Bootcoding_codlab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootcoding-real-time-project-practice-main/projects/bootcoding-file-system/bootcoding-file-system.iml" filepath="$PROJECT_DIR$/bootcoding-real-time-project-practice-main/projects/bootcoding-file-system/bootcoding-file-system.iml" />
+    </modules>
+  </component>
+</project>
